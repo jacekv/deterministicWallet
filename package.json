@@ -1,13 +1,13 @@
 {
   "name": "deterministicwallet",
   "version": "1.0.0",
-  "description": "",
+  "description": "Package which allows to create a deterministic wallet based on the BIP32 spec",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jacek Varky",
+  "license": "MIT",
   "dependencies": {
     "bs58check": "^2.1.2",
     "secp256k1": "^4.0.1"
