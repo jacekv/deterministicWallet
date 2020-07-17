@@ -313,3 +313,5 @@ class DeterministicWallet {
     );
   }
 }
+
+module.exports.DeterministicWallet = DeterministicWallet;
